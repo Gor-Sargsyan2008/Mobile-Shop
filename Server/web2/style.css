@@ -1,0 +1,250 @@
+.product{
+	 width: 200px;
+     background-color: #edede9;
+     border: 2px solid;
+     padding: 10px;
+     margin: 15px;
+     text-align:center;
+     border-radius: 15px;
+
+}
+.product_image{
+	width:100%;
+
+}
+
+.product_title{
+	
+	color: #495057;
+}
+
+.product_price{
+   
+	color: #495057;
+}
+.product_link{
+     color:#495057;
+     background-color: #d5bdaf;
+     text-decoration: none;
+     border-radius: 7px;
+     width: 100%;
+     display: block;
+     padding-top: 5px;
+     padding-bottom: 5px;
+}
+
+.shop{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+	margin: auto;
+}
+
+.main{
+	width: 1400px;
+	margin: auto;
+}
+
+
+
+.content{
+	display: flex;
+
+}
+.dzax{
+	width: 60%;
+
+}
+.aj{
+	margin-left: 20px;
+	width: 40%;
+
+}
+
+.nerqev{
+	display: flex;
+}
+.poqr{
+	width: 25%;
+
+}
+
+.nkar{
+	width: 100%;
+}
+
+.vernagir{
+    color:#6c757d;
+     background-color: #ced4da;
+      text-align:center;
+      width: 300px;
+
+
+}
+
+.text{
+     color:#6c757d;
+     background-color: #ced4da;
+      
+      text-indent: 40px;
+
+}
+
+.link{
+    text-align: center;
+	color:#6c757d;
+     background-color: #ced4da;
+     text-decoration: none;
+     border-radius: 7px;
+     width: 100%;
+     display: block;
+     margin-right: 100px; 
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left: 10px;
+     margin-left: 50px;
+     text-align:center;
+     border:5px solid #696868;
+}
+.maps{
+    width:100%;
+    height: 500px;
+}
+
+.content{
+    display:flex;
+
+}
+
+.aj{
+    width:20%;
+
+}
+
+.dzax{
+    width:50%;
+
+}
+
+.main{
+    width: 1000px;
+    margin:auto;
+}
+
+.vernagir{
+    border:5px solid #696868;
+    text-align: center;
+     border-radius: 5px;
+     margin-left: 50px;
+     width: 300px;
+     
+     
+}
+
+.text{
+    border:5px solid #696868;
+    width: 300px;
+    padding: 10px;
+    margin-left: 60px;
+    border-radius: 5px;
+}
+
+.submit{
+    width:200px;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 60px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.vernagir{
+   
+    padding: 20px;
+}   
+
+.header{
+	display: flex;
+	justify-content: space-between;
+	background-color: black;
+}
+.menu_box{
+	display: flex;
+	align-items: center;
+}
+
+.menu{
+	list-style-type: none;
+	display: flex;
+	margin: 0;
+	padding: 0;
+
+}
+
+.menu_link{
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	display:  inline-block;
+
+}
+.menu_link:hover{
+	background-color: purple;
+}
+
+.logo{
+	width: 50px;
+}
+
+.img_logo_link{
+	width: 50px;
+}
+
+.footer{
+   display: flex;
+   justify-content: space-between;
+	background-color: black;
+	margin-top: 130px;
+
+}
+.text-anun{
+	color: white;
+	padding-right: 10px;
+
+
+}
+
+.table {
+    border: 1px solid black;
+
+    height: 100%;
+    width: 580px;
+}
+
+.table1 {
+
+    border: 1px solid black;
+    margin-top: 10px;
+    margin: 10px;
+    width: 600px;
+    height: 10px;
+}
+
+.axyusak{
+    padding: 10px;
+    margin-top: 10px; 
+
+}
+
+
+.single{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
